@@ -1,6 +1,5 @@
-# Blog Index
-
-A list of all blog posts. Click a title to read the blog on the official website.
+# 📚 Blog Index
+A list of all blog posts. Click a title to read the full article on the official website:
 
 - [10 Best React Native Apps Developed in Germany in 2025.md](https://www.devcentrehouse.eu/blogs/10-best-react-native-apps-developed-in-germany-in-2025)
 - [10 Biggest Problems Companies Face when Hiring AI Engineers.md](https://www.devcentrehouse.eu/blogs/10-biggest-problems-companies-face-when-hiring-ai-engineers)
