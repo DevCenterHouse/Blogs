@@ -1,4 +1,4 @@
-# 📚 Blog Index
+# 📚 Blogs List
 A list of all blog posts. Click a title to read the full article on the official website:
 
 - [10 Best React Native Apps Developed in Germany in 2025.md](https://www.devcentrehouse.eu/blogs/10-best-react-native-apps-developed-in-germany-in-2025)
