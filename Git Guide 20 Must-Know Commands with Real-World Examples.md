@@ -144,7 +144,7 @@
 <p><code>git config</code> is used to configure Git settings for your repository or globally across your system. You can configure things like your name, email, and editor.<br/><br/><strong>Example</strong>:<br/><br/>To set your name and email:</p>
 <ul class="wp-block-list">
 <li>git config –global user.name “Your Name”</li>
-<li>git config –global user.email “<a class="__cf_email__" data-cfemail="d2abbda7a0b7bfb3bbbe92b7aab3bfa2beb7fcb1bdbf" href="/cdn-cgi/l/email-protection">[email protected]</a>”</li>
+<li>git config –global user.email “<a class="__cf_email__" data-cfemail="3e47514b4c5b535f57527e5b465f534e525b105d5153" href="/cdn-cgi/l/email-protection">[email protected]</a>”</li>
 </ul>
 <h2 class="wp-block-heading">Conclusion</h2>
 <figure class="wp-block-image size-large"><img alt="Git" class="wp-image-1521" decoding="async" height="729" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.devcentrehouse.eu/blogs/wp-content/uploads/2025/04/dch-devops-1024x729.png" srcset="https://www.devcentrehouse.eu/blogs/wp-content/uploads/2025/04/dch-devops-1024x729.png 1024w, https://www.devcentrehouse.eu/blogs/wp-content/uploads/2025/04/dch-devops-300x214.png 300w, https://www.devcentrehouse.eu/blogs/wp-content/uploads/2025/04/dch-devops-768x547.png 768w, https://www.devcentrehouse.eu/blogs/wp-content/uploads/2025/04/dch-devops.png 1147w" width="1024"/></figure>
