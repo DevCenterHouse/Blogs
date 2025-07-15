@@ -247,4 +247,3 @@ A list of all blog posts. Click a title to read the full article on the official
 244. [10 Key Questions to Ask Your AI Development Company Before Signing a Contract.](https://www.devcentrehouse.eu/blogs/10-key-questions-to-ask-your-ai-development-company-before-signing-a-contract/)
 245. [The Fundamental Problem With React Native We Faced in Dev Centre House Ireland](https://www.devcentrehouse.eu/blogs/the-fundamental-problem-with-react-native/)
 246. [COVID-19: Finding the Perfect Software Partner in a Pandemic](https://www.devcentrehouse.eu/blogs/finding-software-partner-pandemic/)
-247. [How to Identify and Hire a Mobile App Developer?](https://www.devcentrehouse.eu/blogs/how-to-identify-and-hire-a-mobile-app-developer/)
