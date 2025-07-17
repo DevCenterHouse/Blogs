@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devcenterhouse.github.io/Blogs/sitemap.xml
