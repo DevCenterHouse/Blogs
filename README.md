@@ -6,7 +6,7 @@ Welcome to the official DevCenterHouse Blog Repository – your destination for 
 
 Stay up to date with our regularly published blogs on:
 
-1. [Untitled](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs-copy/Untitled.md)
+1. [Dev Centre House Blogs](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs-copy/Untitled.md)
 2. [Why German SaaS Teams Are Going Full Bespoke](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs-copy/Why%20German%20SaaS%20Teams%20Are%20Going%20Full%20Bespoke.md)
 3. [Danish Startups Lose Time Outsourcing, Here’s a Smarter Way](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs-copy/Danish%20Startups%20Lose%20Time%20Outsourcing%2C%20Here%E2%80%99s%20a%20Smarter%20Way.md)
 4. [From Ireland to Germany: Why Tech Teams Go Bespoke](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs-copy/From%20Ireland%20to%20Germany%20Why%20Tech%20Teams%20Go%20Bespoke.md)
