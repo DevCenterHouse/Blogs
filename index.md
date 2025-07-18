@@ -1,4 +1,4 @@
-# # Dev Centre House List 
+# Dev Centre House Blogs List 
 
  A list of all blog posts. Click a title to read the full article:
 
