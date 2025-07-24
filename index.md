@@ -2,7 +2,6 @@
 
  A list of all blog posts. Click a title to read the full article:
 
-Stay up to date with our regularly published blogs on:
 1. [Vector Databases Explained: 7 Essential Concepts for AI-Powered Search](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Vector%20Databases%20Explained%207%20Essential%20Concepts%20for%20AI-Powered%20Search.md)
 2. [Building a Blog App with XAMPP, MySQL, phpMyAdmin, and NestJS](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Building%20a%20Blog%20App%20with%20XAMPP%2C%20MySQL%2C%20phpMyAdmin%2C%20and%20NestJS.md)
 3. [Authentication and Authorization in NestJS Using JWT](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Authentication%20and%20Authorization%20in%20NestJS%20Using%20JWT.md)
