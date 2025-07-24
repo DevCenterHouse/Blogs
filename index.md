@@ -2,6 +2,7 @@
 
  A list of all blog posts. Click a title to read the full article:
 
+Stay up to date with our regularly published blogs on:
 1. [Vector Databases Explained: 7 Essential Concepts for AI-Powered Search](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Vector%20Databases%20Explained%207%20Essential%20Concepts%20for%20AI-Powered%20Search.md)
 2. [Building a Blog App with XAMPP, MySQL, phpMyAdmin, and NestJS](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Building%20a%20Blog%20App%20with%20XAMPP%2C%20MySQL%2C%20phpMyAdmin%2C%20and%20NestJS.md)
 3. [Authentication and Authorization in NestJS Using JWT](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Authentication%20and%20Authorization%20in%20NestJS%20Using%20JWT.md)
@@ -271,3 +272,8 @@
 267. [The Founder Pitch That Opened Doors](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%20Founder%20Pitch%20That%20Opened%20Doors.md)
 268. [Rapid MVP Launches in Ireland: Why Startups Use Node.js & Docker | Dev Centre House](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Rapid%20MVP%20Launches%20in%20Ireland%20Why%20Startups%20Use%20Node.js%20%26%20Docker%20%20Dev%20Centre%20House.md)
 269. [How Cloud-Native DevOps Solutions Are Fuelling FinTech Growth in Ireland | Dev Centre House](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/How%20Cloud-Native%20DevOps%20Solutions%20Are%20Fuelling%20FinTech%20Growth%20in%20Ireland%20%20Dev%20Centre%20House.md)
+270. [Perfection is Killing Your Startup — Here’s What to Do Instead](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Perfection%20is%20Killing%20Your%20Startup%20%E2%80%94%20Here%E2%80%99s%20What%20to%20Do%20Instead.md)
+271. [Custom Salesforce Integrations for Irish PropTech: Streamlining CRM with Dev Centre House](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Custom%20Salesforce%20Integrations%20for%20Irish%20PropTech%20Streamlining%20CRM%20with%20Dev%20Centre%20House.md)
+272. [The 5Fs That Keep Founders Focused and Resilient](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%205Fs%20That%20Keep%20Founders%20Focused%20and%20Resilient.md)
+273. [The Truth No One Tells You About Being a Founder & CTO](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%20Truth%20No%20One%20Tells%20You%20About%20Being%20a%20Founder%20%26%20CTO.md)
+
