@@ -275,4 +275,5 @@
 271. [Custom Salesforce Integrations for Irish PropTech: Streamlining CRM with Dev Centre House](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Custom%20Salesforce%20Integrations%20for%20Irish%20PropTech%20Streamlining%20CRM%20with%20Dev%20Centre%20House.md)
 272. [The 5Fs That Keep Founders Focused and Resilient](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%205Fs%20That%20Keep%20Founders%20Focused%20and%20Resilient.md)
 273. [The Truth No One Tells You About Being a Founder & CTO](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%20Truth%20No%20One%20Tells%20You%20About%20Being%20a%20Founder%20%26%20CTO.md)
-
+274. [AI-Driven FinTech Solutions for Ireland’s Growing Financial Sector](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/AI-Driven%20FinTech%20Solutions%20for%20Ireland%E2%80%99s%20Growing%20Financial%20Sector.md)
+275. [How Irish Startups Can Leverage AI to Scale Faster](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/How%20Irish%20Startups%20Can%20Leverage%20AI%20to%20Scale%20Faster.md)
