@@ -277,3 +277,4 @@
 273. [The Truth No One Tells You About Being a Founder & CTO](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%20Truth%20No%20One%20Tells%20You%20About%20Being%20a%20Founder%20%26%20CTO.md)
 274. [AI-Driven FinTech Solutions for Ireland’s Growing Financial Sector](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/AI-Driven%20FinTech%20Solutions%20for%20Ireland%E2%80%99s%20Growing%20Financial%20Sector.md)
 275. [How Irish Startups Can Leverage AI to Scale Faster](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/How%20Irish%20Startups%20Can%20Leverage%20AI%20to%20Scale%20Faster.md)
+276. [The One Book That Changed It All – Founder Advice](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%20One%20Book%20That%20Changed%20It%20All%20%E2%80%93%20Founder%20Advice.md)
