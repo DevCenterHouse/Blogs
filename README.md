@@ -6,4 +6,4 @@ Welcome to the official DevCenterHouse Blog Repository – your destination for 
 
 Stay up to date with our regularly published blogs on:
 
-1. [How a CTO Reviews Weeks and Months to Scale Faster](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/How%20a%20CTO%20Reviews%20Weeks%20and%20Months%20to%20Scale%20Faster.md)
+1. [This is How I Lead – Lessons from a Founder’s Journey](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/This%20is%20How%20I%20Lead%20%E2%80%93%20Lessons%20from%20a%20Founder%E2%80%99s%20Journey.md)
