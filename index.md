@@ -279,3 +279,6 @@
 275. [How Irish Startups Can Leverage AI to Scale Faster](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/How%20Irish%20Startups%20Can%20Leverage%20AI%20to%20Scale%20Faster.md)
 276. [The One Book That Changed It All – Founder Advice](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/The%20One%20Book%20That%20Changed%20It%20All%20%E2%80%93%20Founder%20Advice.md)
 277. [From Developer to Leading 100+ Engineers](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/From%20Developer%20to%20Leading%20100%2B%20Engineers.md)
+278. [Why Ireland Is Perfect for Tech Founders](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/Why%20Ireland%20Is%20Perfect%20for%20Tech%20Founders.md)
+279. [How a CTO Reviews Weeks and Months to Scale Faster](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/How%20a%20CTO%20Reviews%20Weeks%20and%20Months%20to%20Scale%20Faster.md)
+280 . [This is How I Lead – Lessons from a Founder’s Journey](https://github.com/DevCenterHouse/Blogs/blob/master/all-blogs/This%20is%20How%20I%20Lead%20%E2%80%93%20Lessons%20from%20a%20Founder%E2%80%99s%20Journey.md)
