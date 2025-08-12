@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ireland’s FinTech Needs Faster Builds – Here’s How
 permalink: /irelandsfintechneedsfasterbuildshereshow/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Microsoft Azure Specialist 75 Essential Questions to Hire a Highly Effective Expert
 permalink: /microsoftazurespecialist75essentialquestionstohireahighlyeffectiveexpert/
 ---

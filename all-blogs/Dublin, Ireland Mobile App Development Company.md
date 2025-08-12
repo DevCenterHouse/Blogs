@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dublin, Ireland Mobile App Development Company
 permalink: /dublinirelandmobileappdevelopmentcompany/
 ---

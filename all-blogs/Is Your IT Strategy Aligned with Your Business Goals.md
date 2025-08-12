@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Is Your IT Strategy Aligned with Your Business Goals
 permalink: /isyouritstrategyalignedwithyourbusinessgoals/
 ---

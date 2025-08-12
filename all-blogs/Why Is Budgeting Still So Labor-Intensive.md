@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Is Budgeting Still So Labor-Intensive
 permalink: /whyisbudgetingstillsolabor-intensive/
 ---

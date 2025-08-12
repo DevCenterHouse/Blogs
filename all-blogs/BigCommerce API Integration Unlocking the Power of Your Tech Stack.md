@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BigCommerce API Integration Unlocking the Power of Your Tech Stack
 permalink: /bigcommerceapiintegrationunlockingthepowerofyourtechstack/
 ---

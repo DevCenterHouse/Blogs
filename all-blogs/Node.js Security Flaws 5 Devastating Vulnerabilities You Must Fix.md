@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Node.js Security Flaws 5 Devastating Vulnerabilities You Must Fix
 permalink: /nodejssecurityflaws5devastatingvulnerabilitiesyoumustfix/
 ---

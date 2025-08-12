@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The One Book That Changed It All – Founder Advice
 permalink: /theonebookthatchangeditallfounderadvice/
 ---

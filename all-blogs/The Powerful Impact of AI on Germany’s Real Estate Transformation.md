@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Powerful Impact of AI on Germany’s Real Estate Transformation
 permalink: /thepowerfulimpactofaiongermanysrealestatetransformation/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What Startup Founders Must Know from an ex-IBMer CTO
 permalink: /whatstartupfoundersmustknowfromanex-ibmercto/
 ---

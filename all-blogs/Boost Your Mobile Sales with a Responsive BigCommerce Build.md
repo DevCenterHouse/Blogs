@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Boost Your Mobile Sales with a Responsive BigCommerce Build
 permalink: /boostyourmobilesaleswitharesponsivebigcommercebuild/
 ---

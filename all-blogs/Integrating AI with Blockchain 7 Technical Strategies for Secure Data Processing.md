@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Integrating AI with Blockchain 7 Technical Strategies for Secure Data Processing
 permalink: /integratingaiwithblockchain7technicalstrategiesforsecuredataprocessing/
 ---

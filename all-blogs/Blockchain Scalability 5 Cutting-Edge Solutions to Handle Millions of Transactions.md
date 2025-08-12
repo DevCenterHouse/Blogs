@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blockchain Scalability 5 Cutting-Edge Solutions to Handle Millions of Transactions
 permalink: /blockchainscalability5cutting-edgesolutionstohandlemillionsoftransactions/
 ---

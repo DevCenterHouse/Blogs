@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hire AI Engineers for Banking in Norway
 permalink: /hireaiengineersforbankinginnorway/
 ---

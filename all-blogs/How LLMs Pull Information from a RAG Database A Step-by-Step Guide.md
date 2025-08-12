@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How LLMs Pull Information from a RAG Database A Step-by-Step Guide
 permalink: /howllmspullinformationfromaragdatabaseastep-by-stepguide/
 ---

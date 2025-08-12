@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Digital Transformation in Germany Needs Dev Depth
 permalink: /digitaltransformationingermanyneedsdevdepth/
 ---

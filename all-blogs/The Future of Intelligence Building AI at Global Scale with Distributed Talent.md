@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Future of Intelligence Building AI at Global Scale with Distributed Talent
 permalink: /thefutureofintelligencebuildingaiatglobalscalewithdistributedtalent/
 ---

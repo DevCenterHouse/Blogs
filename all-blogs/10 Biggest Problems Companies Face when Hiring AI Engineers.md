@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 10 Biggest Problems Companies Face when Hiring AI Engineers
 permalink: /10biggestproblemscompaniesfacewhenhiringaiengineers/
 ---

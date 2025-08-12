@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Cloud Infrastructure Tips for Irish and Norwegian Startups  Dev Centre House
 permalink: /cloudinfrastructuretipsforirishandnorwegianstartupsdevcentrehouse/
 ---

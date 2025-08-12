@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Scaling Startups with Embedded Engineering How FDSEs Accelerate Product Velocity, Stabilize Infrastr
 permalink: /scalingstartupswithembeddedengineeringhowfdsesaccelerateproductvelocitystabilizeinfrastr/
 ---

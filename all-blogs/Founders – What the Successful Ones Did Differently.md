@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Founders – What the Successful Ones Did Differently
 permalink: /founderswhatthesuccessfulonesdiddifferently/
 ---

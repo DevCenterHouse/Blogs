@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: File Uploads in NestJS Using Multer
 permalink: /fileuploadsinnestjsusingmulter/
 ---

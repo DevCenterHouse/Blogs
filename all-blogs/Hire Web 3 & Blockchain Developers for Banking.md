@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hire Web 3 & Blockchain Developers for Banking
 permalink: /hireweb3blockchaindevelopersforbanking/
 ---

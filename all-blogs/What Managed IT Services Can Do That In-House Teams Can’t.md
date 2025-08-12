@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What Managed IT Services Can Do That In-House Teams Can’t
 permalink: /whatmanageditservicescandothatin-houseteamscant/
 ---

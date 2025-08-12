@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Effectively Vet an AI Expert for Financial Services Success
 permalink: /howtoeffectivelyvetanaiexpertforfinancialservicessuccess/
 ---

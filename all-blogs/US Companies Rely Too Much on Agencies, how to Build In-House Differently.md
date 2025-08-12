@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: US Companies Rely Too Much on Agencies, how to Build In-House Differently
 permalink: /uscompaniesrelytoomuchonagencieshowtobuildin-housedifferently/
 ---

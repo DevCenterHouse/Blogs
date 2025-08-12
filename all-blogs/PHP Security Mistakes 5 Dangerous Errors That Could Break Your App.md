@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: PHP Security Mistakes 5 Dangerous Errors That Could Break Your App
 permalink: /phpsecuritymistakes5dangerouserrorsthatcouldbreakyourapp/
 ---

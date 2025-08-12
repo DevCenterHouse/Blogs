@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Custom Software Could Be the Best Investment You Make This Year
 permalink: /whycustomsoftwarecouldbethebestinvestmentyoumakethisyear/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Danish Startups Lose Momentum, Why
 permalink: /danishstartupslosemomentumwhy/
 ---

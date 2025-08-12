@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI-Powered Startups 8 Game-Changing Trends in Denmark & Norway
 permalink: /ai-poweredstartups8game-changingtrendsindenmarknorway/
 ---

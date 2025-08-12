@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ireland’s Top 5 Distributors and Their CRM Preferences
 permalink: /irelandstop5distributorsandtheircrmpreferences/
 ---

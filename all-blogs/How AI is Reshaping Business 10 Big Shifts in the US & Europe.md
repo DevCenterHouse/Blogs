@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How AI is Reshaping Business 10 Big Shifts in the US & Europe
 permalink: /howaiisreshapingbusiness10bigshiftsintheuseurope/
 ---

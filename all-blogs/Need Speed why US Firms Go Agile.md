@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Need Speed why US Firms Go Agile
 permalink: /needspeedwhyusfirmsgoagile/
 ---

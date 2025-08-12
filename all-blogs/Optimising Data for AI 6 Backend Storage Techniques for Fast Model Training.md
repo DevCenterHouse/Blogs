@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Optimising Data for AI 6 Backend Storage Techniques for Fast Model Training
 permalink: /optimisingdataforai6backendstoragetechniquesforfastmodeltraining/
 ---

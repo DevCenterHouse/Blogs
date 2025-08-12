@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Custom vs. Template How We Tailor BigCommerce Sites for Maximum Impact
 permalink: /customvstemplatehowwetailorbigcommercesitesformaximumimpact/
 ---

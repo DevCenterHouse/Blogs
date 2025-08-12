@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Struggling with Market Decline Discover How AI Can Drive Economic Success
 permalink: /strugglingwithmarketdeclinediscoverhowaicandriveeconomicsuccess/
 ---

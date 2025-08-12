@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Python Developer Hiring 50+ Powerful Interview Questions for Top Talent
 permalink: /pythondeveloperhiring50powerfulinterviewquestionsfortoptalent/
 ---

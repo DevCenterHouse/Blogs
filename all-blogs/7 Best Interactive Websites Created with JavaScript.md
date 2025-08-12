@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 7 Best Interactive Websites Created with JavaScript
 permalink: /7bestinteractivewebsitescreatedwithjavascript/
 ---

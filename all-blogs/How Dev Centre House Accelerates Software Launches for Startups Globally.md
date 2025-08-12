@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Dev Centre House Accelerates Software Launches for Startups Globally
 permalink: /howdevcentrehouseacceleratessoftwarelaunchesforstartupsglobally/
 ---

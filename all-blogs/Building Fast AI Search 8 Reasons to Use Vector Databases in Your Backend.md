@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building Fast AI Search 8 Reasons to Use Vector Databases in Your Backend
 permalink: /buildingfastaisearch8reasonstousevectordatabasesinyourbackend/
 ---

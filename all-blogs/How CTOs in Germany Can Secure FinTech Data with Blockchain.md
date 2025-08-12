@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How CTOs in Germany Can Secure FinTech Data with Blockchain
 permalink: /howctosingermanycansecurefintechdatawithblockchain/
 ---

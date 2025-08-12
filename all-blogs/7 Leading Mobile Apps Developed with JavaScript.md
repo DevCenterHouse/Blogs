@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 7 Leading Mobile Apps Developed with JavaScript
 permalink: /7leadingmobileappsdevelopedwithjavascript/
 ---

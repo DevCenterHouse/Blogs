@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Rapid MVP Launches in Ireland Why Startups Use Node.js & Docker  Dev Centre House
 permalink: /rapidmvplaunchesinirelandwhystartupsusenodejsdockerdevcentrehouse/
 ---

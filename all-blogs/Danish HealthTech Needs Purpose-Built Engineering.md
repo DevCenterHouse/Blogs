@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Danish HealthTech Needs Purpose-Built Engineering
 permalink: /danishhealthtechneedspurpose-builtengineering/
 ---

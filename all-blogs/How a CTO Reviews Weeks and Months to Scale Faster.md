@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How a CTO Reviews Weeks and Months to Scale Faster
 permalink: /howactoreviewsweeksandmonthstoscalefaster/
 ---

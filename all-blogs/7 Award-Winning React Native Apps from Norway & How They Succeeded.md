@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 7 Award-Winning React Native Apps from Norway & How They Succeeded
 permalink: /7award-winningreactnativeappsfromnorwayhowtheysucceeded/
 ---

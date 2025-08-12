@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Scaling in Ireland, UK, and US, Why to Go Bespoke
 permalink: /scalinginirelandukanduswhytogobespoke/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Find Blockchain Experts for Real Estate in Germany
 permalink: /howtofindblockchainexpertsforrealestateingermany/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Navigating React in 2025 A Practical Update
 permalink: /navigatingreactin2025apracticalupdate/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Do I need A Website for My Restaurant for Online Orders
 permalink: /doineedawebsiteformyrestaurantforonlineorders/
 ---

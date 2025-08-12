@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Custom AI Software Development Everything You Need to Know Before Hiring a Partner
 permalink: /customaisoftwaredevelopmenteverythingyouneedtoknowbeforehiringapartner/
 ---

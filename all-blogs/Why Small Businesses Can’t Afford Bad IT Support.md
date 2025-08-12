@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Small Businesses Can’t Afford Bad IT Support
 permalink: /whysmallbusinessescantaffordbaditsupport/
 ---

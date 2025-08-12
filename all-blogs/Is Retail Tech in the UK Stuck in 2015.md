@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Is Retail Tech in the UK Stuck in 2015
 permalink: /isretailtechintheukstuckin2015/
 ---

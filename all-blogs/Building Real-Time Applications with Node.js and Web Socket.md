@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building Real-Time Applications with Node.js and Web Socket
 permalink: /buildingreal-timeapplicationswithnodejsandwebsocket/
 ---

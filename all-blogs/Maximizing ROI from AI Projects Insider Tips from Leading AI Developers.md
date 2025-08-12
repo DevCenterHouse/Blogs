@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Maximizing ROI from AI Projects Insider Tips from Leading AI Developers
 permalink: /maximizingroifromaiprojectsinsidertipsfromleadingaidevelopers/
 ---

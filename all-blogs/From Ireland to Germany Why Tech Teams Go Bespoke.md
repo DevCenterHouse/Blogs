@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: From Ireland to Germany Why Tech Teams Go Bespoke
 permalink: /fromirelandtogermanywhytechteamsgobespoke/
 ---

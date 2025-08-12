@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 6 Leading Web Applications Created with Python
 permalink: /6leadingwebapplicationscreatedwithpython/
 ---

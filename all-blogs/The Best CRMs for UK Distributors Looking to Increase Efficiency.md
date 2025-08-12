@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Best CRMs for UK Distributors Looking to Increase Efficiency
 permalink: /thebestcrmsforukdistributorslookingtoincreaseefficiency/
 ---

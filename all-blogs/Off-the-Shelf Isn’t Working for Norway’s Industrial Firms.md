@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Off-the-Shelf Isn’t Working for Norway’s Industrial Firms
 permalink: /off-the-shelfisntworkingfornorwaysindustrialfirms/
 ---

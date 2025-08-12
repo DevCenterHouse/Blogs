@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Irish Startups Can Leverage AI to Scale Faster
 permalink: /howirishstartupscanleverageaitoscalefaster/
 ---

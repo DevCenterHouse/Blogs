@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Your eCommerce Store Needs More Than Shopify Exploring BigCommerce Advantages
 permalink: /whyyourecommercestoreneedsmorethanshopifyexploringbigcommerceadvantages/
 ---

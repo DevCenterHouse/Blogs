@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 20 Startup KPIs to raise investment valuation
 permalink: /20startupkpistoraiseinvestmentvaluation/
 ---

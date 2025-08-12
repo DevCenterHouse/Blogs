@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Do You Build a Financial Strategy That Learns
 permalink: /howdoyoubuildafinancialstrategythatlearns/
 ---

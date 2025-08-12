@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Is Your Cash Flow Management Still Manual
 permalink: /whyisyourcashflowmanagementstillmanual/
 ---

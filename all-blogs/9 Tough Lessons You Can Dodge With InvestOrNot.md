@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 9 Tough Lessons You Can Dodge With InvestOrNot
 permalink: /9toughlessonsyoucandodgewithinvestornot/
 ---

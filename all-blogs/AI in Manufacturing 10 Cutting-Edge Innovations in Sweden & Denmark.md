@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI in Manufacturing 10 Cutting-Edge Innovations in Sweden & Denmark
 permalink: /aiinmanufacturing10cutting-edgeinnovationsinswedendenmark/
 ---

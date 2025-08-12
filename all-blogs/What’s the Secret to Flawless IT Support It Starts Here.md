@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What’s the Secret to Flawless IT Support It Starts Here
 permalink: /whatsthesecrettoflawlessitsupportitstartshere/
 ---

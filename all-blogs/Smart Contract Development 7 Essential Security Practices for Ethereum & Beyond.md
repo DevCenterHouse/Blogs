@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Smart Contract Development 7 Essential Security Practices for Ethereum & Beyond
 permalink: /smartcontractdevelopment7essentialsecuritypracticesforethereumbeyond/
 ---

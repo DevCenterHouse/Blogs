@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: From Developer to Leading 100+ Engineers
 permalink: /fromdevelopertoleading100engineers/
 ---

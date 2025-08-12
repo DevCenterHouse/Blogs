@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Best Software Development Company in Norway
 permalink: /bestsoftwaredevelopmentcompanyinnorway/
 ---

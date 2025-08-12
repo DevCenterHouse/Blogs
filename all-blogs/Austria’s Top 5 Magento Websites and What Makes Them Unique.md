@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Austria’s Top 5 Magento Websites and What Makes Them Unique
 permalink: /austriastop5magentowebsitesandwhatmakesthemunique/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How BigCommerce Supports Multi-Currency eCommerce Across Europe
 permalink: /howbigcommercesupportsmulti-currencyecommerceacrosseurope/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: DAO Development Company Ireland
 permalink: /daodevelopmentcompanyireland/
 ---

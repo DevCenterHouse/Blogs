@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Software Partner Advantage 10 Key Questions for Banking Growth
 permalink: /softwarepartneradvantage10keyquestionsforbankinggrowth/
 ---

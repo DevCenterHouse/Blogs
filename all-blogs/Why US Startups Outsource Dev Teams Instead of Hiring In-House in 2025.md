@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why US Startups Outsource Dev Teams Instead of Hiring In-House in 2025
 permalink: /whyusstartupsoutsourcedevteamsinsteadofhiringin-housein2025/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Legacy Tech Slows German Growth, why Upgrade Now
 permalink: /legacytechslowsgermangrowthwhyupgradenow/
 ---

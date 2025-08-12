@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Norwegian Industrial Tech Is Held Back by Code Debt
 permalink: /norwegianindustrialtechisheldbackbycodedebt/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: PHP & AI Integration 6 Smart Ways to Build AI-Powered Applications
 permalink: /phpaiintegration6smartwaystobuildai-poweredapplications/
 ---

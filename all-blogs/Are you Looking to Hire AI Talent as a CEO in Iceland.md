@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Are you Looking to Hire AI Talent as a CEO in Iceland
 permalink: /areyoulookingtohireaitalentasaceoiniceland/
 ---

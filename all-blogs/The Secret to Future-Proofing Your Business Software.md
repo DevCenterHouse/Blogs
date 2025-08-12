@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Secret to Future-Proofing Your Business Software
 permalink: /thesecrettofuture-proofingyourbusinesssoftware/
 ---

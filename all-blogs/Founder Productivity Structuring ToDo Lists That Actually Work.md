@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Founder Productivity Structuring ToDo Lists That Actually Work
 permalink: /founderproductivitystructuringtodoliststhatactuallywork/
 ---

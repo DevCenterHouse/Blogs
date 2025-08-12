@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Comparing Deployment Platforms Choosing the Right Solution for Your Application
 permalink: /comparingdeploymentplatformschoosingtherightsolutionforyourapplication/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Germany to Denmark Why Custom Dev Wins
 permalink: /germanytodenmarkwhycustomdevwins/
 ---

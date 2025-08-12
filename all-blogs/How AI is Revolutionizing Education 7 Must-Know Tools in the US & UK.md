@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How AI is Revolutionizing Education 7 Must-Know Tools in the US & UK
 permalink: /howaiisrevolutionizingeducation7must-knowtoolsintheusuk/
 ---

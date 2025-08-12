@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Java Remains a Powerhouse for Enterprise Application Development in 2025
 permalink: /whyjavaremainsapowerhouseforenterpriseapplicationdevelopmentin2025/
 ---

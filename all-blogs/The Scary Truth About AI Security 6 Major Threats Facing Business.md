@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Scary Truth About AI Security 6 Major Threats Facing Business
 permalink: /thescarytruthaboutaisecurity6majorthreatsfacingbusiness/
 ---

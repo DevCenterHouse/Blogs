@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building Scalable Angular Applications Best Practices for Large-Scale Projects
 permalink: /buildingscalableangularapplicationsbestpracticesforlarge-scaleprojects/
 ---

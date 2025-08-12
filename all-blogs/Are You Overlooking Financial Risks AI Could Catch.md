@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Are You Overlooking Financial Risks AI Could Catch
 permalink: /areyouoverlookingfinancialrisksaicouldcatch/
 ---

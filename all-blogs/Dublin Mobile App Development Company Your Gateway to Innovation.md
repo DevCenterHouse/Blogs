@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dublin Mobile App Development Company Your Gateway to Innovation
 permalink: /dublinmobileappdevelopmentcompanyyourgatewaytoinnovation/
 ---

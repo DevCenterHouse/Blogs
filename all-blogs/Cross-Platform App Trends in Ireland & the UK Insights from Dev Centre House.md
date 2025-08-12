@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Cross-Platform App Trends in Ireland & the UK Insights from Dev Centre House
 permalink: /cross-platformapptrendsinirelandtheukinsightsfromdevcentrehouse/
 ---

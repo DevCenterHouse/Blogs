@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Best Tech Stacks for Irish Startups in 2025  Dev Centre House
 permalink: /besttechstacksforirishstartupsin2025devcentrehouse/
 ---

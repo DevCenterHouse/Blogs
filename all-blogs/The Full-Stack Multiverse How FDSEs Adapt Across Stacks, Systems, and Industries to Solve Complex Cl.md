@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Full-Stack Multiverse How FDSEs Adapt Across Stacks, Systems, and Industries to Solve Complex Cl
 permalink: /thefull-stackmultiversehowfdsesadaptacrossstackssystemsandindustriestosolvecomplexcl/
 ---

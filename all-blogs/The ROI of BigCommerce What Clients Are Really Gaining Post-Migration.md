@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The ROI of BigCommerce What Clients Are Really Gaining Post-Migration
 permalink: /theroiofbigcommercewhatclientsarereallygainingpost-migration/
 ---

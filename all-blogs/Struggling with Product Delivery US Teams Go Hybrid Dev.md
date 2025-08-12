@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Struggling with Product Delivery US Teams Go Hybrid Dev
 permalink: /strugglingwithproductdeliveryusteamsgohybriddev/
 ---

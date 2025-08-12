@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dublin Web Design Company
 permalink: /dublinwebdesigncompany/
 ---

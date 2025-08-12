@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: German Startups That Skip QA Are Burning Cash
 permalink: /germanstartupsthatskipqaareburningcash/
 ---

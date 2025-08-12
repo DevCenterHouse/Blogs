@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Unexpected Benefits of Outsourcing IT Support
 permalink: /theunexpectedbenefitsofoutsourcingitsupport/
 ---

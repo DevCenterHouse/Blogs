@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Costly Risks of Neglecting IT Maintenance How to Protect Your Business
 permalink: /thecostlyrisksofneglectingitmaintenancehowtoprotectyourbusiness/
 ---

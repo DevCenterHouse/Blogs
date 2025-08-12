@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Scheduling Tasks in NestJS Using Cron Jobs
 permalink: /schedulingtasksinnestjsusingcronjobs/
 ---

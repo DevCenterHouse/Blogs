@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Understanding Node.js Event Loop How It Works and Why It’s Crucial for Performance
 permalink: /understandingnodejseventloophowitworksandwhyitscrucialforperformance/
 ---

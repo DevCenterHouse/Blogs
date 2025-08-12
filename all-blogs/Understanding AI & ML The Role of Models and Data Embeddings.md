@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Understanding AI & ML The Role of Models and Data Embeddings
 permalink: /understandingaimltheroleofmodelsanddataembeddings/
 ---

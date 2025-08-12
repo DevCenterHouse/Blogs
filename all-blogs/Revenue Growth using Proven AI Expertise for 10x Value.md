@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Revenue Growth using Proven AI Expertise for 10x Value
 permalink: /revenuegrowthusingprovenaiexpertisefor10xvalue/
 ---

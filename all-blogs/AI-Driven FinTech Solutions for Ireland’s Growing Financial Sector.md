@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI-Driven FinTech Solutions for Ireland’s Growing Financial Sector
 permalink: /ai-drivenfintechsolutionsforirelandsgrowingfinancialsector/
 ---

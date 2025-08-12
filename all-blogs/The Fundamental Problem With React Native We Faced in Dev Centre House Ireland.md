@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Fundamental Problem With React Native We Faced in Dev Centre House Ireland
 permalink: /thefundamentalproblemwithreactnativewefacedindevcentrehouseireland/
 ---

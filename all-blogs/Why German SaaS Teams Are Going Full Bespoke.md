@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why German SaaS Teams Are Going Full Bespoke
 permalink: /whygermansaasteamsaregoingfullbespoke/
 ---

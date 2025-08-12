@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ireland’s Lean Dev Teams Outperform Big Budget Builds
 permalink: /irelandsleandevteamsoutperformbigbudgetbuilds/
 ---

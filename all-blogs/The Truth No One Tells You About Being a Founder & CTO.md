@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Truth No One Tells You About Being a Founder & CTO
 permalink: /thetruthnoonetellsyouaboutbeingafoundercto/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Top 7 Mobile Games built using Kotlin
 permalink: /top7mobilegamesbuiltusingkotlin/
 ---

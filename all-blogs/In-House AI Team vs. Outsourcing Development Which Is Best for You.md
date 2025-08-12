@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: In-House AI Team vs. Outsourcing Development Which Is Best for You
 permalink: /in-houseaiteamvsoutsourcingdevelopmentwhichisbestforyou/
 ---

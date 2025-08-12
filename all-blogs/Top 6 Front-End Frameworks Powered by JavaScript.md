@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Top 6 Front-End Frameworks Powered by JavaScript
 permalink: /top6front-endframeworkspoweredbyjavascript/
 ---

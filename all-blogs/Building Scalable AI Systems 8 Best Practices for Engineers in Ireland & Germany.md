@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building Scalable AI Systems 8 Best Practices for Engineers in Ireland & Germany
 permalink: /buildingscalableaisystems8bestpracticesforengineersinirelandgermany/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Norway’s Most Profitable Magento Websites & Their Success Secrets
 permalink: /norwaysmostprofitablemagentowebsitestheirsuccesssecrets/
 ---

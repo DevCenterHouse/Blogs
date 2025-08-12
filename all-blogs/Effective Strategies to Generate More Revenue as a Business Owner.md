@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Effective Strategies to Generate More Revenue as a Business Owner
 permalink: /effectivestrategiestogeneratemorerevenueasabusinessowner/
 ---

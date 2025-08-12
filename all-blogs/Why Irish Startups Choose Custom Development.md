@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Irish Startups Choose Custom Development
 permalink: /whyirishstartupschoosecustomdevelopment/
 ---

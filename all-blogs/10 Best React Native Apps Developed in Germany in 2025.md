@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 10 Best React Native Apps Developed in Germany in 2025
 permalink: /10bestreactnativeappsdevelopedingermanyin2025/
 ---

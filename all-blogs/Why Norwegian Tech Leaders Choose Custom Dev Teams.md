@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Norwegian Tech Leaders Choose Custom Dev Teams
 permalink: /whynorwegiantechleaderschoosecustomdevteams/
 ---

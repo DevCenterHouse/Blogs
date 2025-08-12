@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Danish Startups Lose Time Outsourcing, Here’s a Smarter Way
 permalink: /danishstartupslosetimeoutsourcingheresasmarterway/
 ---

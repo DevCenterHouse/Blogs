@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tailored AI Solutions vs. Off-the-Shelf Software Which Is Right for Your Business
 permalink: /tailoredaisolutionsvsoff-the-shelfsoftwarewhichisrightforyourbusiness/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: PHP Performance Boost 7 Powerful Techniques to Optimize Your Backend
 permalink: /phpperformanceboost7powerfultechniquestooptimizeyourbackend/
 ---

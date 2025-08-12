@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 7 Best Web Applications Built Using JavaScript
 permalink: /7bestwebapplicationsbuiltusingjavascript/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: InvestAI Initiative by European Union Accelerating AI Innovation with Dev Centre House Ireland
 permalink: /investaiinitiativebyeuropeanunionacceleratingaiinnovationwithdevcentrehouseireland/
 ---

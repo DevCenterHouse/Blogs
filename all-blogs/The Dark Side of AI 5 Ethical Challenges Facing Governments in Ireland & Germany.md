@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Dark Side of AI 5 Ethical Challenges Facing Governments in Ireland & Germany
 permalink: /thedarksideofai5ethicalchallengesfacinggovernmentsinirelandgermany/
 ---

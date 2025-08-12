@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blockchain Engineers, how to find one
 permalink: /blockchainengineershowtofindone/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Real-Time AI Inference 5 Backend Solutions for Blazing-Fast Predictions
 permalink: /real-timeaiinference5backendsolutionsforblazing-fastpredictions/
 ---

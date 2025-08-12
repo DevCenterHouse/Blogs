@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 5 Reasons Why European CTOs Need Web3 and Blockchain Adoption
 permalink: /5reasonswhyeuropeanctosneedweb3andblockchainadoption/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI is Changing Everything 7 Incredible Innovations You Need to Know
 permalink: /aiischangingeverything7incredibleinnovationsyouneedtoknow/
 ---

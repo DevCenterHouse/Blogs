@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Modernizing Legacy Systems A Forward-Deployed Engineer’s Guide
 permalink: /modernizinglegacysystemsaforward-deployedengineersguide/
 ---

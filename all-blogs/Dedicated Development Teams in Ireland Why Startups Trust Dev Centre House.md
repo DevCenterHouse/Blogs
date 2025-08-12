@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Dedicated Development Teams in Ireland Why Startups Trust Dev Centre House
 permalink: /dedicateddevelopmentteamsinirelandwhystartupstrustdevcentrehouse/
 ---

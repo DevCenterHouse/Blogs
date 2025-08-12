@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI Roundup Key Innovations Shaping the Future Today
 permalink: /airoundupkeyinnovationsshapingthefuturetoday/
 ---

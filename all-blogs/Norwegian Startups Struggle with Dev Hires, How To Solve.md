@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Norwegian Startups Struggle with Dev Hires, How To Solve
 permalink: /norwegianstartupsstrugglewithdevhireshowtosolve/
 ---

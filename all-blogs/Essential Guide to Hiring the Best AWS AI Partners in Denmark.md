@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Essential Guide to Hiring the Best AWS AI Partners in Denmark
 permalink: /essentialguidetohiringthebestawsaipartnersindenmark/
 ---

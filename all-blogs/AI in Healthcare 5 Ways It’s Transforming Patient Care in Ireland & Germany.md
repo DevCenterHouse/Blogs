@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI in Healthcare 5 Ways It’s Transforming Patient Care in Ireland & Germany
 permalink: /aiinhealthcare5waysitstransformingpatientcareinirelandgermany/
 ---

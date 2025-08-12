@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: NestJS + Swagger Auto-Generate API Docs
 permalink: /nestjs-swaggerauto-generateapidocs/
 ---

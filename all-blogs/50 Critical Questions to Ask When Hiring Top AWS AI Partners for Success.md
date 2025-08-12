@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 50 Critical Questions to Ask When Hiring Top AWS AI Partners for Success
 permalink: /50criticalquestionstoaskwhenhiringtopawsaipartnersforsuccess/
 ---

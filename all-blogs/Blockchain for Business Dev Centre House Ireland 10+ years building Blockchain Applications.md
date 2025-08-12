@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Blockchain for Business Dev Centre House Ireland 10+ years building Blockchain Applications
 permalink: /blockchainforbusinessdevcentrehouseireland10yearsbuildingblockchainapplications/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Are Irish Startups Still Struggling to Scale
 permalink: /areirishstartupsstillstrugglingtoscale/
 ---

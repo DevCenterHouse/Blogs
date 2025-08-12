@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building Powerful APIs with NestJS GraphQL A Developer’s Chat
 permalink: /buildingpowerfulapiswithnestjsgraphqladeveloperschat/
 ---

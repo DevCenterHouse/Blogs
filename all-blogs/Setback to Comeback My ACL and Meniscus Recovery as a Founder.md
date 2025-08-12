@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Setback to Comeback My ACL and Meniscus Recovery as a Founder
 permalink: /setbacktocomebackmyaclandmeniscusrecoveryasafounder/
 ---

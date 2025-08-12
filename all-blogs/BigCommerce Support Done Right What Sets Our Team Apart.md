@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BigCommerce Support Done Right What Sets Our Team Apart
 permalink: /bigcommercesupportdonerightwhatsetsourteamapart/
 ---

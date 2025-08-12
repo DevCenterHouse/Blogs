@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Your AI Development Partner in Ireland – Dev Centre House Ireland
 permalink: /youraidevelopmentpartnerinirelanddevcentrehouseireland/
 ---

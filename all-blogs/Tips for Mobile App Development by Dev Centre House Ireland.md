@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tips for Mobile App Development by Dev Centre House Ireland
 permalink: /tipsformobileappdevelopmentbydevcentrehouseireland/
 ---

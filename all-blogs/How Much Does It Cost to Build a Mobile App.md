@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Much Does It Cost to Build a Mobile App
 permalink: /howmuchdoesitcosttobuildamobileapp/
 ---

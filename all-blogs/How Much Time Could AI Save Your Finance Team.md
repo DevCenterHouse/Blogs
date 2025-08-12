@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Much Time Could AI Save Your Finance Team
 permalink: /howmuchtimecouldaisaveyourfinanceteam/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Dev Centre House Builds Custom BigCommerce Stores That Convert
 permalink: /howdevcentrehousebuildscustombigcommercestoresthatconvert/
 ---

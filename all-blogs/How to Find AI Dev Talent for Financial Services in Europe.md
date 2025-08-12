@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Find AI Dev Talent for Financial Services in Europe
 permalink: /howtofindaidevtalentforfinancialservicesineurope/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Successful CFOs are using AI to Fight Economic Uncertainty
 permalink: /howsuccessfulcfosareusingaitofighteconomicuncertainty/
 ---

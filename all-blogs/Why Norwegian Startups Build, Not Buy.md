@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Norwegian Startups Build, Not Buy
 permalink: /whynorwegianstartupsbuildnotbuy/
 ---

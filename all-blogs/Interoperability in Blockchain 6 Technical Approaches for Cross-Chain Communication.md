@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Interoperability in Blockchain 6 Technical Approaches for Cross-Chain Communication
 permalink: /interoperabilityinblockchain6technicalapproachesforcross-chaincommunication/
 ---

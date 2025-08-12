@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI Advantage 5 Essential Strategies for European Bank
 permalink: /aiadvantage5essentialstrategiesforeuropeanbank/
 ---

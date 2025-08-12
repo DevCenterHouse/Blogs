@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Can AI Help You Build a Truly Agile Finance Function
 permalink: /howcanaihelpyoubuildatrulyagilefinancefunction/
 ---

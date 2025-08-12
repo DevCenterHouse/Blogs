@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Choose the Best AI Development Partner for Large Language Model Projects
 permalink: /howtochoosethebestaidevelopmentpartnerforlargelanguagemodelprojects/
 ---

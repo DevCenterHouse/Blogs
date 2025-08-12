@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Top 7 Machine Learning Apps Developed with Python
 permalink: /top7machinelearningappsdevelopedwithpython/
 ---

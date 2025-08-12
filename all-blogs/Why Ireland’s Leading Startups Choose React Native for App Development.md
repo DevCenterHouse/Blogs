@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Ireland’s Leading Startups Choose React Native for App Development
 permalink: /whyirelandsleadingstartupschoosereactnativeforappdevelopment/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Could the Cloud Actually Make Your Team Work Faster
 permalink: /couldthecloudactuallymakeyourteamworkfaster/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Future of AI in Finance 6 Opportunities and Risks for the UK & Sweden
 permalink: /thefutureofaiinfinance6opportunitiesandrisksfortheuksweden/
 ---

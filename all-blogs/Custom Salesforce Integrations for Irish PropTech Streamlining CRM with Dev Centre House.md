@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Custom Salesforce Integrations for Irish PropTech Streamlining CRM with Dev Centre House
 permalink: /customsalesforceintegrationsforirishproptechstreamliningcrmwithdevcentrehouse/
 ---

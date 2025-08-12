@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Optimizing AI Models 10 Advanced Techniques for Faster and More Accurate Predictions
 permalink: /optimizingaimodels10advancedtechniquesforfasterandmoreaccuratepredictions/
 ---

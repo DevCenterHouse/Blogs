@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Is Your ERP System Smart Enough
 permalink: /isyourerpsystemsmartenough/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 50 Proven Questions to Hire the Top Blockchain Engineers for any Industry
 permalink: /50provenquestionstohirethetopblockchainengineersforanyindustry/
 ---

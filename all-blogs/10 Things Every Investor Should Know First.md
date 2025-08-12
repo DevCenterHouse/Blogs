@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 10 Things Every Investor Should Know First
 permalink: /10thingseveryinvestorshouldknowfirst/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ireland Startup Program by Dev Centre House Ireland
 permalink: /irelandstartupprogrambydevcentrehouseireland/
 ---

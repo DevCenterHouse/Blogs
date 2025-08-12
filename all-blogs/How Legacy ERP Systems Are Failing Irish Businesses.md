@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Legacy ERP Systems Are Failing Irish Businesses
 permalink: /howlegacyerpsystemsarefailingirishbusinesses/
 ---

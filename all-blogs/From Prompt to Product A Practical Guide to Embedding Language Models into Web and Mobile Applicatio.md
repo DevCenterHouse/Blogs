@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: From Prompt to Product A Practical Guide to Embedding Language Models into Web and Mobile Applicatio
 permalink: /fromprompttoproductapracticalguidetoembeddinglanguagemodelsintowebandmobileapplicatio/
 ---

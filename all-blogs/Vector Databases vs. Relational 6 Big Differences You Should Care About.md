@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Vector Databases vs. Relational 6 Big Differences You Should Care About
 permalink: /vectordatabasesvsrelational6bigdifferencesyoushouldcareabout/
 ---

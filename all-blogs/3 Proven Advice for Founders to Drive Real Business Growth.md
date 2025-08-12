@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 3 Proven Advice for Founders to Drive Real Business Growth
 permalink: /3provenadviceforfounderstodriverealbusinessgrowth/
 ---

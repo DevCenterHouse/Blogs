@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Is Your Business Data Helping or Hurting You
 permalink: /isyourbusinessdatahelpingorhurtingyou/
 ---

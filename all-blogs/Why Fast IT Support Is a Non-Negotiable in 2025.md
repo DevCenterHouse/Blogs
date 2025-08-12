@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Fast IT Support Is a Non-Negotiable in 2025
 permalink: /whyfastitsupportisanon-negotiablein2025/
 ---

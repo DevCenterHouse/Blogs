@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why US HealthTech Needs Agile Devs
 permalink: /whyushealthtechneedsagiledevs/
 ---

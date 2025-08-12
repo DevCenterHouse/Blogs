@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Node.js and AI 7 Powerful Libraries for Machine Learning Applications
 permalink: /nodejsandai7powerfullibrariesformachinelearningapplications/
 ---

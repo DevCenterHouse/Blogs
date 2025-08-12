@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: OpenSearch Mastery 10 Advanced Techniques to Supercharge Your Queries
 permalink: /opensearchmastery10advancedtechniquestosuperchargeyourqueries/
 ---

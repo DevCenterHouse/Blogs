@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Choose the Right Mobile App Development Company in Ireland (2025 Guide)
 permalink: /howtochoosetherightmobileappdevelopmentcompanyinireland2025guide/
 ---

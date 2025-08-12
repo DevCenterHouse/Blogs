@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Do Smart Cities in Denmark Need Smarter Software
 permalink: /dosmartcitiesindenmarkneedsmartersoftware/
 ---

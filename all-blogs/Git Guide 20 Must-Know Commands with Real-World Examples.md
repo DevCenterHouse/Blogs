@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Git Guide 20 Must-Know Commands with Real-World Examples
 permalink: /gitguide20must-knowcommandswithreal-worldexamples/
 ---

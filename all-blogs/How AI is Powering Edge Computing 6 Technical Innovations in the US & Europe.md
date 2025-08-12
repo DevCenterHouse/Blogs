@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How AI is Powering Edge Computing 6 Technical Innovations in the US & Europe
 permalink: /howaiispoweringedgecomputing6technicalinnovationsintheuseurope/
 ---

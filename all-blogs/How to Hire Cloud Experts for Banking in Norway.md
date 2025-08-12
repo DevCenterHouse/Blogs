@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Hire Cloud Experts for Banking in Norway
 permalink: /howtohirecloudexpertsforbankinginnorway/
 ---

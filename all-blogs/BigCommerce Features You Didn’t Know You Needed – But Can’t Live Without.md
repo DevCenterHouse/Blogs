@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BigCommerce Features You Didn’t Know You Needed – But Can’t Live Without
 permalink: /bigcommercefeaturesyoudidntknowyouneededbutcantlivewithout/
 ---

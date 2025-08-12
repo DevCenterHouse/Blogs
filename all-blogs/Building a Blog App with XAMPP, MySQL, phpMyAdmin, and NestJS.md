@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building a Blog App with XAMPP, MySQL, phpMyAdmin, and NestJS
 permalink: /buildingablogappwithxamppmysqlphpmyadminandnestjs/
 ---

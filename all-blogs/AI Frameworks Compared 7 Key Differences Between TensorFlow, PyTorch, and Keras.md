@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI Frameworks Compared 7 Key Differences Between TensorFlow, PyTorch, and Keras
 permalink: /aiframeworkscompared7keydifferencesbetweentensorflowpytorchandkeras/
 ---

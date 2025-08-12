@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How AI Can Boost Revenue and Drive Growth for CEOs, Founders, and Business Owners
 permalink: /howaicanboostrevenueanddrivegrowthforceosfoundersandbusinessowners/
 ---

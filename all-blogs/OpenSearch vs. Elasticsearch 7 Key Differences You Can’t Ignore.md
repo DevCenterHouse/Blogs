@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: OpenSearch vs. Elasticsearch 7 Key Differences You Can’t Ignore
 permalink: /opensearchvselasticsearch7keydifferencesyoucantignore/
 ---

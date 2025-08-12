@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Pagination and Filtering in NestJS APIs
 permalink: /paginationandfilteringinnestjsapis/
 ---

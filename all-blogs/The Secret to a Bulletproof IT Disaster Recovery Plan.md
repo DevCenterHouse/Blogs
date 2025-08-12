@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Secret to a Bulletproof IT Disaster Recovery Plan
 permalink: /thesecrettoabulletproofitdisasterrecoveryplan/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Kotlin is a Go-To choice for Multi-Platform Apps Development
 permalink: /whykotlinisago-tochoiceformulti-platformappsdevelopment/
 ---

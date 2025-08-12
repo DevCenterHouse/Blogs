@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Reliable Kotlin App Development Services by Dev Centre Ireland
 permalink: /reliablekotlinappdevelopmentservicesbydevcentreireland/
 ---

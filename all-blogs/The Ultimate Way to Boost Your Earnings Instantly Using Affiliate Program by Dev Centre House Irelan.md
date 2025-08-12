@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Ultimate Way to Boost Your Earnings Instantly Using Affiliate Program by Dev Centre House Irelan
 permalink: /theultimatewaytoboostyourearningsinstantlyusingaffiliateprogrambydevcentrehouseirelan/
 ---

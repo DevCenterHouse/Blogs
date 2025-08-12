@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Using DTOs and Validation Pipes in NestJS
 permalink: /usingdtosandvalidationpipesinnestjs/
 ---

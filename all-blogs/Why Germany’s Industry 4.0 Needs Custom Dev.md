@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Germany’s Industry 4.0 Needs Custom Dev
 permalink: /whygermanysindustry40needscustomdev/
 ---

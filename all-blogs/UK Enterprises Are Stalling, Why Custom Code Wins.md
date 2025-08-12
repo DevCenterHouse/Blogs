@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: UK Enterprises Are Stalling, Why Custom Code Wins
 permalink: /ukenterprisesarestallingwhycustomcodewins/
 ---

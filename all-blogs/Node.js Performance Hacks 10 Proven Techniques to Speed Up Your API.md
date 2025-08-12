@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Node.js Performance Hacks 10 Proven Techniques to Speed Up Your API
 permalink: /nodejsperformancehacks10proventechniquestospeedupyourapi/
 ---

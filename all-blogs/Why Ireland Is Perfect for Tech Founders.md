@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Ireland Is Perfect for Tech Founders
 permalink: /whyirelandisperfectfortechfounders/
 ---

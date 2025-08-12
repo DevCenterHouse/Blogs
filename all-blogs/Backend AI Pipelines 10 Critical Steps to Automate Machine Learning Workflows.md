@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Backend AI Pipelines 10 Critical Steps to Automate Machine Learning Workflows
 permalink: /backendaipipelines10criticalstepstoautomatemachinelearningworkflows/
 ---

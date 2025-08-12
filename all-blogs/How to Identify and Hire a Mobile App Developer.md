@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Identify and Hire a Mobile App Developer
 permalink: /howtoidentifyandhireamobileappdeveloper/
 ---

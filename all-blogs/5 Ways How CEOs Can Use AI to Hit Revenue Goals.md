@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 5 Ways How CEOs Can Use AI to Hit Revenue Goals
 permalink: /5wayshowceoscanuseaitohitrevenuegoals/
 ---

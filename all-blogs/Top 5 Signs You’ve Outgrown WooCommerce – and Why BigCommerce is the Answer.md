@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Top 5 Signs You’ve Outgrown WooCommerce – and Why BigCommerce is the Answer
 permalink: /top5signsyouveoutgrownwoocommerceandwhybigcommerceistheanswer/
 ---

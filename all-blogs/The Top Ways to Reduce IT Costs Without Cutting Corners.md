@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Top Ways to Reduce IT Costs Without Cutting Corners
 permalink: /thetopwaystoreduceitcostswithoutcuttingcorners/
 ---

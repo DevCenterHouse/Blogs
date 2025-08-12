@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BigCommerce vs Magento Which is Right for Scaling Your Business in 2025
 permalink: /bigcommercevsmagentowhichisrightforscalingyourbusinessin2025/
 ---

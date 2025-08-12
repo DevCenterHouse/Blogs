@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: COVID-19 Finding the Perfect Software Partner in a Pandemic
 permalink: /covid-19findingtheperfectsoftwarepartnerinapandemic/
 ---

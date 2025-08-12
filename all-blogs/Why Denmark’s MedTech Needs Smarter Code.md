@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Denmark’s MedTech Needs Smarter Code
 permalink: /whydenmarksmedtechneedssmartercode/
 ---

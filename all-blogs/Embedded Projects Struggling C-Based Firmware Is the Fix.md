@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Embedded Projects Struggling C-Based Firmware Is the Fix
 permalink: /embeddedprojectsstrugglingc-basedfirmwareisthefix/
 ---

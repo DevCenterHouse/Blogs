@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: UK Enterprises Can’t Keep Up, Here’s the Dev Shortcut
 permalink: /ukenterprisescantkeepupheresthedevshortcut/
 ---

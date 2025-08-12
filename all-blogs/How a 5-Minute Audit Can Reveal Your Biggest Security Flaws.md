@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How a 5-Minute Audit Can Reveal Your Biggest Security Flaws
 permalink: /howa5-minuteauditcanrevealyourbiggestsecurityflaws/
 ---

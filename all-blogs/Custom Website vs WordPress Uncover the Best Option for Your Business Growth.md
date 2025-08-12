@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Custom Website vs WordPress Uncover the Best Option for Your Business Growth
 permalink: /customwebsitevswordpressuncoverthebestoptionforyourbusinessgrowth/
 ---

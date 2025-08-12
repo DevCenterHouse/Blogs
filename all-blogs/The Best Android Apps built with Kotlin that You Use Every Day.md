@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Best Android Apps built with Kotlin that You Use Every Day
 permalink: /thebestandroidappsbuiltwithkotlinthatyouuseeveryday/
 ---

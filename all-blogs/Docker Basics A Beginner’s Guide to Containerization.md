@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Docker Basics A Beginner’s Guide to Containerization
 permalink: /dockerbasicsabeginnersguidetocontainerization/
 ---

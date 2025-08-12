@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Denmark’s Fastest-Growing Mobile Apps Built with React Native
 permalink: /denmarksfastest-growingmobileappsbuiltwithreactnative/
 ---

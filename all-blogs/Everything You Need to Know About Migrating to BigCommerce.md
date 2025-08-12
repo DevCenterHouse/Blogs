@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Everything You Need to Know About Migrating to BigCommerce
 permalink: /everythingyouneedtoknowaboutmigratingtobigcommerce/
 ---

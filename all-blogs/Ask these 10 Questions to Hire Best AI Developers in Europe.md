@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ask these 10 Questions to Hire Best AI Developers in Europe
 permalink: /askthese10questionstohirebestaidevelopersineurope/
 ---

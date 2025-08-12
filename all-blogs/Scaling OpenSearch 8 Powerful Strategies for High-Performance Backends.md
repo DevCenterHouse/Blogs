@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Scaling OpenSearch 8 Powerful Strategies for High-Performance Backends
 permalink: /scalingopensearch8powerfulstrategiesforhigh-performancebackends/
 ---

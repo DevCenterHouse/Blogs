@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Scaling in the UK, why to ditch Cookie-Cutter Tools
 permalink: /scalingintheukwhytoditchcookie-cuttertools/
 ---

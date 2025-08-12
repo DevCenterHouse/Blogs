@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Running Meetings with a Builder Mindset A Founder’s Approach
 permalink: /runningmeetingswithabuildermindsetafoundersapproach/
 ---

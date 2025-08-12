@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 7 Revolutionary LLMs in the UK and Their Advanced Tech Stacks
 permalink: /7revolutionaryllmsintheukandtheiradvancedtechstacks/
 ---

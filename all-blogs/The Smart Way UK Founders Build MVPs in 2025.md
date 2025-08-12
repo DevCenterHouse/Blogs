@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Smart Way UK Founders Build MVPs in 2025
 permalink: /thesmartwayukfoundersbuildmvpsin2025/
 ---

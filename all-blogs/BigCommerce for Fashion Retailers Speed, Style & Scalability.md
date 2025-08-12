@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: BigCommerce for Fashion Retailers Speed, Style & Scalability
 permalink: /bigcommerceforfashionretailersspeedstylescalability/
 ---

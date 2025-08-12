@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Old Tools Are Slowing Ireland’s Digital Progress, Why
 permalink: /oldtoolsareslowingirelandsdigitalprogresswhy/
 ---

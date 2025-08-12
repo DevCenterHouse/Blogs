@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Before You Build A Founder’s Guide to Smarter Software Features
 permalink: /beforeyoubuildafoundersguidetosmartersoftwarefeatures/
 ---

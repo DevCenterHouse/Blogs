@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Can You Trust AI With High-Stakes Financial Decisions
 permalink: /canyoutrustaiwithhigh-stakesfinancialdecisions/
 ---

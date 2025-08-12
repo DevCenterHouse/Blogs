@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Mobile App Analytics Metrics You Should Track for Marketing, Revenue and PMF
 permalink: /mobileappanalyticsmetricsyoushouldtrackformarketingrevenueandpmf/
 ---

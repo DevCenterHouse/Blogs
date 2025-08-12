@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hire Best FinTech Software Developers in Denmark Fast
 permalink: /hirebestfintechsoftwaredevelopersindenmarkfast/
 ---

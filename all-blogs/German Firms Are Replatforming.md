@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: German Firms Are Replatforming
 permalink: /germanfirmsarereplatforming/
 ---

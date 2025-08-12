@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Agile Software Development for Irish Startups Faster Delivery with Dev Centre House
 permalink: /agilesoftwaredevelopmentforirishstartupsfasterdeliverywithdevcentrehouse/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 10 Key Questions to Ask Your AI Development Company Before Signing a Contract.
 permalink: /10keyquestionstoaskyouraidevelopmentcompanybeforesigningacontract/
 ---

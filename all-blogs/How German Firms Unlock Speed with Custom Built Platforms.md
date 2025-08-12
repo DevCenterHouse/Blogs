@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How German Firms Unlock Speed with Custom Built Platforms
 permalink: /howgermanfirmsunlockspeedwithcustombuiltplatforms/
 ---

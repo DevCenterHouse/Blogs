@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Choose the Right Vector Database for Your RAG Architecture
 permalink: /howtochoosetherightvectordatabaseforyourragarchitecture/
 ---

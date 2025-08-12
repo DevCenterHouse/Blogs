@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The 5Fs That Keep Founders Focused and Resilient
 permalink: /the5fsthatkeepfoundersfocusedandresilient/
 ---

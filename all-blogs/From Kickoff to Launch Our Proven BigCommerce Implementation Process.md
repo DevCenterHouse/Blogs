@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: From Kickoff to Launch Our Proven BigCommerce Implementation Process
 permalink: /fromkickofftolaunchourprovenbigcommerceimplementationprocess/
 ---

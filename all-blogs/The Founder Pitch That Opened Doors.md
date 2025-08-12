@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Founder Pitch That Opened Doors
 permalink: /thefounderpitchthatopeneddoors/
 ---

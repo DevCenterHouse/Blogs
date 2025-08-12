@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: A Beginner’s Guide to Angular Key Features and How to Get Started
 permalink: /abeginnersguidetoangularkeyfeaturesandhowtogetstarted/
 ---

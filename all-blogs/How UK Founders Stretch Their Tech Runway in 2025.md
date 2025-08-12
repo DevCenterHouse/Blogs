@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How UK Founders Stretch Their Tech Runway in 2025
 permalink: /howukfoundersstretchtheirtechrunwayin2025/
 ---

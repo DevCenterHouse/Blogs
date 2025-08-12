@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Engineering Firms Speed Up Delivery with Bespoke Dev
 permalink: /howengineeringfirmsspeedupdeliverywithbespokedev/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Danish HealthTech Needs Devs Who Know Compliance
 permalink: /whydanishhealthtechneedsdevswhoknowcompliance/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Norway’s Energy Sector Needs Faster Innovation Cycles
 permalink: /norwaysenergysectorneedsfasterinnovationcycles/
 ---

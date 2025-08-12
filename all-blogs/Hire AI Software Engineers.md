@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hire AI Software Engineers
 permalink: /hireaisoftwareengineers/
 ---

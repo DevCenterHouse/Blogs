@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Putting People First A Guide for Founders and CTOs Building Winning Teams
 permalink: /puttingpeoplefirstaguideforfoundersandctosbuildingwinningteams/
 ---

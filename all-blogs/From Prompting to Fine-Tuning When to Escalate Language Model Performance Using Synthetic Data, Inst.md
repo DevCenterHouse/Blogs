@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: From Prompting to Fine-Tuning When to Escalate Language Model Performance Using Synthetic Data, Inst
 permalink: /frompromptingtofine-tuningwhentoescalatelanguagemodelperformanceusingsyntheticdatainst/
 ---

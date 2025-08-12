@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Launch NestJS Fast Deploy Once, Scale Anywhere
 permalink: /launchnestjsfastdeployoncescaleanywhere/
 ---

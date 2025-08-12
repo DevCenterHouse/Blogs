@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Germany SaaS Teams Are Shifting Away from Freelancers
 permalink: /whygermanysaasteamsareshiftingawayfromfreelancers/
 ---

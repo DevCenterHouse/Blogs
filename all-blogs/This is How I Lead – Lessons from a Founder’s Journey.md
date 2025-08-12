@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: This is How I Lead – Lessons from a Founder’s Journey
 permalink: /thisishowileadlessonsfromafoundersjourney/
 ---

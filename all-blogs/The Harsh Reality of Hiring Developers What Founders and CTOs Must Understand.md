@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Harsh Reality of Hiring Developers What Founders and CTOs Must Understand
 permalink: /theharshrealityofhiringdeveloperswhatfoundersandctosmustunderstand/
 ---

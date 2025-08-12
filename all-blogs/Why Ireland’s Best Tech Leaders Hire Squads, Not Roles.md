@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Ireland’s Best Tech Leaders Hire Squads, Not Roles
 permalink: /whyirelandsbesttechleadershiresquadsnotroles/
 ---

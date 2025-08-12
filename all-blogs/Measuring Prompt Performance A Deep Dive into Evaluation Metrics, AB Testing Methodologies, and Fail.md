@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Measuring Prompt Performance A Deep Dive into Evaluation Metrics, AB Testing Methodologies, and Fail
 permalink: /measuringpromptperformanceadeepdiveintoevaluationmetricsabtestingmethodologiesandfail/
 ---

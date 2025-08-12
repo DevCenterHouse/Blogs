@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Vector Database Optimisation 5 Hidden Tricks to Boost Search Speed
 permalink: /vectordatabaseoptimisation5hiddentrickstoboostsearchspeed/
 ---

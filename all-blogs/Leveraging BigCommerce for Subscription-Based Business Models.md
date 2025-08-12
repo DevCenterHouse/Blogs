@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Leveraging BigCommerce for Subscription-Based Business Models
 permalink: /leveragingbigcommerceforsubscription-basedbusinessmodels/
 ---

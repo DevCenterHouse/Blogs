@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 5 React Native Apps in Austria That Are Redefining User Experience
 permalink: /5reactnativeappsinaustriathatareredefininguserexperience/
 ---

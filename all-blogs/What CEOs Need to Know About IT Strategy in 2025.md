@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What CEOs Need to Know About IT Strategy in 2025
 permalink: /whatceosneedtoknowaboutitstrategyin2025/
 ---

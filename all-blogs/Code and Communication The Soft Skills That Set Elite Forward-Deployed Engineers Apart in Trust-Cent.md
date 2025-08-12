@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Code and Communication The Soft Skills That Set Elite Forward-Deployed Engineers Apart in Trust-Cent
 permalink: /codeandcommunicationthesoftskillsthatseteliteforward-deployedengineersapartintrust-cent/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Is Your Online Store Struggling to Scale Here’s How BigCommerce Can Help
 permalink: /isyouronlinestorestrugglingtoscalehereshowbigcommercecanhelp/
 ---

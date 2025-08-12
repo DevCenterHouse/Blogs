@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Essential Checklist for Custom Software Development in Ireland  Dev Centre House
 permalink: /essentialchecklistforcustomsoftwaredevelopmentinirelanddevcentrehouse/
 ---

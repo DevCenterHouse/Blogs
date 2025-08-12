@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Build Mobile Apps That Drive Revenue
 permalink: /howtobuildmobileappsthatdriverevenue/
 ---

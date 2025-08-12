@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Retail Tech in the UK Is Broken, Fix It Fast
 permalink: /retailtechintheukisbrokenfixitfast/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Vector Databases Explained 7 Essential Concepts for AI-Powered Search
 permalink: /vectordatabasesexplained7essentialconceptsforai-poweredsearch/
 ---

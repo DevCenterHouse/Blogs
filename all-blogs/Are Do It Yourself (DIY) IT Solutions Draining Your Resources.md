@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Are Do It Yourself (DIY) IT Solutions Draining Your Resources
 permalink: /aredoityourselfdiyitsolutionsdrainingyourresources/
 ---

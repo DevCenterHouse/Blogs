@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI company every Oslo business should know about
 permalink: /aicompanyeveryoslobusinessshouldknowabout/
 ---

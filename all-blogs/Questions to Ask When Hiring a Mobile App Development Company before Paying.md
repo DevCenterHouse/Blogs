@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Questions to Ask When Hiring a Mobile App Development Company before Paying
 permalink: /questionstoaskwhenhiringamobileappdevelopmentcompanybeforepaying/
 ---

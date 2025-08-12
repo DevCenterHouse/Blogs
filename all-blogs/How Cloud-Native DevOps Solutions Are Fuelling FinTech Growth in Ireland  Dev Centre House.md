@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Cloud-Native DevOps Solutions Are Fuelling FinTech Growth in Ireland  Dev Centre House
 permalink: /howcloud-nativedevopssolutionsarefuellingfintechgrowthinirelanddevcentrehouse/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI Integration for SaaS Startups Lessons for Irish Tech Founders
 permalink: /aiintegrationforsaasstartupslessonsforirishtechfounders/
 ---

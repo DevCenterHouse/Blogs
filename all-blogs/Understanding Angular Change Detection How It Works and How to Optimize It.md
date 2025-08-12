@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Understanding Angular Change Detection How It Works and How to Optimize It
 permalink: /understandingangularchangedetectionhowitworksandhowtooptimizeit/
 ---

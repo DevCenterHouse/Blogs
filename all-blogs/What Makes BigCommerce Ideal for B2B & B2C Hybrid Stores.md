@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What Makes BigCommerce Ideal for B2B & B2C Hybrid Stores
 permalink: /whatmakesbigcommerceidealforb2bb2chybridstores/
 ---

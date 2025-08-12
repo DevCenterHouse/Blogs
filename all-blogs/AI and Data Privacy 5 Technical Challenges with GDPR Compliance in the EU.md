@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI and Data Privacy 5 Technical Challenges with GDPR Compliance in the EU
 permalink: /aianddataprivacy5technicalchallengeswithgdprcomplianceintheeu/
 ---

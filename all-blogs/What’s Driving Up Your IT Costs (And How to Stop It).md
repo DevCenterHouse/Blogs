@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What’s Driving Up Your IT Costs (And How to Stop It)
 permalink: /whatsdrivingupyouritcostsandhowtostopit/
 ---

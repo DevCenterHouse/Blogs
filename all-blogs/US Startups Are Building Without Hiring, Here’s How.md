@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: US Startups Are Building Without Hiring, Here’s How
 permalink: /usstartupsarebuildingwithouthiringhereshow/
 ---

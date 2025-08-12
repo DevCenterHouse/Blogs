@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: OpenSearch AI Integration 6 Smart Ways to Enhance Search with Machine Learning
 permalink: /opensearchaiintegration6smartwaystoenhancesearchwithmachinelearning/
 ---

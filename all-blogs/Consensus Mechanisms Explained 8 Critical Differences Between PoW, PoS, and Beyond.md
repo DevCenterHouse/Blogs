@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Consensus Mechanisms Explained 8 Critical Differences Between PoW, PoS, and Beyond
 permalink: /consensusmechanismsexplained8criticaldifferencesbetweenpowposandbeyond/
 ---

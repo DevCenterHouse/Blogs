@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Speed It Up Irish FinTech
 permalink: /howtospeeditupirishfintech/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Perfection is Killing Your Startup — Here’s What to Do Instead
 permalink: /perfectioniskillingyourstartuphereswhattodoinstead/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How React Native Is Powering Switzerland’s Best Mobile Apps
 permalink: /howreactnativeispoweringswitzerlandsbestmobileapps/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 10 High-Performing Magento Websites in Germany You Should See
 permalink: /10high-performingmagentowebsitesingermanyyoushouldsee/
 ---

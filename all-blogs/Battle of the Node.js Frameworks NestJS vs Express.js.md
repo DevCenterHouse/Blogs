@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Battle of the Node.js Frameworks NestJS vs Express.js
 permalink: /battleofthenodejsframeworksnestjsvsexpressjs/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Building AI APIs 7 Backend Architecture Tips for Scalable AI Solutions
 permalink: /buildingaiapis7backendarchitecturetipsforscalableaisolutions/
 ---

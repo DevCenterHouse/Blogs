@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Norway’s Energy Sector Needs Scalable Software
 permalink: /norwaysenergysectorneedsscalablesoftware/
 ---

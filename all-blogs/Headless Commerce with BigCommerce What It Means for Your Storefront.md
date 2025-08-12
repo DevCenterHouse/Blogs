@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Headless Commerce with BigCommerce What It Means for Your Storefront
 permalink: /headlesscommercewithbigcommercewhatitmeansforyourstorefront/
 ---

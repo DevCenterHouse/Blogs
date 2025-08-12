@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: NestJS Middleware vs Guards vs Interceptors
 permalink: /nestjsmiddlewarevsguardsvsinterceptors/
 ---

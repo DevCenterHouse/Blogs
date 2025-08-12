@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Node.js Best Practices 8 Critical Tips for Building Scalable Microservices
 permalink: /nodejsbestpractices8criticaltipsforbuildingscalablemicroservices/
 ---

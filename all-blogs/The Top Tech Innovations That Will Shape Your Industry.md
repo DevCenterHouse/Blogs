@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Top Tech Innovations That Will Shape Your Industry
 permalink: /thetoptechinnovationsthatwillshapeyourindustry/
 ---

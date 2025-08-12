@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Best LLM Development Service Company
 permalink: /bestllmdevelopmentservicecompany/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Which Software Development Stack is the Best for Financial Services
 permalink: /whichsoftwaredevelopmentstackisthebestforfinancialservices/
 ---

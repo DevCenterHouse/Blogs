@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Tell If Your Software Is Costing You More Than It’s Worth
 permalink: /howtotellifyoursoftwareiscostingyoumorethanitsworth/
 ---

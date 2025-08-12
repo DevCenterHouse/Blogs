@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How Top AI Developers Help Banking CEOs Overcome Key Challenges
 permalink: /howtopaidevelopershelpbankingceosovercomekeychallenges/
 ---

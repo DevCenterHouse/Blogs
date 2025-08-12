@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI & Machine Learning in Ireland How Startups Are Building Smarter Software with Dev Centre House
 permalink: /aimachinelearninginirelandhowstartupsarebuildingsmartersoftwarewithdevcentrehouse/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Startup Funding Ideas for Tech Companies
 permalink: /startupfundingideasfortechcompanies/
 ---

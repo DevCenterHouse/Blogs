@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Are You Ready for AI-Driven Corporate Governance
 permalink: /areyoureadyforai-drivencorporategovernance/
 ---

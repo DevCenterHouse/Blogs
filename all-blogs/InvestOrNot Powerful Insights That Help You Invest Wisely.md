@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: InvestOrNot Powerful Insights That Help You Invest Wisely
 permalink: /investornotpowerfulinsightsthathelpyouinvestwisely/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Scaling Across Europe and the US Here’s the Dev Advantage
 permalink: /scalingacrosseuropeandtheusheresthedevadvantage/
 ---

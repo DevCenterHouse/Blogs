@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: German Manufacturing Is Held Back by Old Code
 permalink: /germanmanufacturingisheldbackbyoldcode/
 ---

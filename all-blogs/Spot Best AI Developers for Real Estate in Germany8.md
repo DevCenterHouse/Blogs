@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Spot Best AI Developers for Real Estate in Germany8
 permalink: /spotbestaidevelopersforrealestateingermany8/
 ---

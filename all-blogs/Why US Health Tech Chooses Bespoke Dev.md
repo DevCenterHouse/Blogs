@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why US Health Tech Chooses Bespoke Dev
 permalink: /whyushealthtechchoosesbespokedev/
 ---

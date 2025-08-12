@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Essential AI Development Tips by Dev Centre House Ireland
 permalink: /essentialaidevelopmenttipsbydevcentrehouseireland/
 ---

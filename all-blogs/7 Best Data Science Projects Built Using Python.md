@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 7 Best Data Science Projects Built Using Python
 permalink: /7bestdatascienceprojectsbuiltusingpython/
 ---

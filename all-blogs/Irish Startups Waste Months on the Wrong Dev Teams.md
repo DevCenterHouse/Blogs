@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Irish Startups Waste Months on the Wrong Dev Teams
 permalink: /irishstartupswastemonthsonthewrongdevteams/
 ---

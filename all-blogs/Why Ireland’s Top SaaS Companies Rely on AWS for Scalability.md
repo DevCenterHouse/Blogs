@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Why Ireland’s Top SaaS Companies Rely on AWS for Scalability
 permalink: /whyirelandstopsaascompaniesrelyonawsforscalability/
 ---

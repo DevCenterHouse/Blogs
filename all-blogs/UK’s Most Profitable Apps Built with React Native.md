@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: UK’s Most Profitable Apps Built with React Native
 permalink: /uksmostprofitableappsbuiltwithreactnative/
 ---

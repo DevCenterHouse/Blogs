@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI-Driven Marketing 7 Powerful Strategies That Are Changing the Game
 permalink: /ai-drivenmarketing7powerfulstrategiesthatarechangingthegame/
 ---
