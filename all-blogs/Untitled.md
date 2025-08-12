@@ -1,3 +1,9 @@
+---
+layout: page
+title: Untitled
+permalink: /untitled/
+---
+
 
 <div class="wp-block-group alignfull has-global-padding is-layout-constrained wp-container-core-group-is-layout-5c83ddcb wp-block-group-is-layout-constrained" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)">
 <p class="has-text-align-center"><em><br/></em></p>

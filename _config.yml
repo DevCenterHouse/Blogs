@@ -2,3 +2,19 @@
 title: DevCenterHouse Blogs
 description: A collection of blog links.
 theme: jekyll-theme-cayman  # You can also try "jekyll-theme-minimal", "jekyll-theme-midnight", etc.
+
+# Site URL configuration for GitHub Pages
+url: https://devcenterhouse.github.io
+baseurl: /Blogs
+
+# Clean permalinks for pages/posts
+permalink: /:title/
+
+# Plugins for SEO and sitemap/feed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Optional: Google Search Console verification via jekyll-seo-tag
+# google_site_verification: YOUR_VERIFICATION_TOKEN

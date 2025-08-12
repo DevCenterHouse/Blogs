@@ -1,3 +1,9 @@
+---
+layout: page
+title: Top 6 Front-End Frameworks Powered by JavaScript
+permalink: /top6front-endframeworkspoweredbyjavascript/
+---
+
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-8ba3830c wp-block-columns-is-layout-flex" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">

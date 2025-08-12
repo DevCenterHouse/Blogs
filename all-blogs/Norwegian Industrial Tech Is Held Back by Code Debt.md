@@ -1,3 +1,9 @@
+---
+layout: page
+title: Norwegian Industrial Tech Is Held Back by Code Debt
+permalink: /norwegianindustrialtechisheldbackbycodedebt/
+---
+
 
 <div class="wp-block-columns alignwide is-layout-flex wp-container-core-columns-is-layout-8ba3830c wp-block-columns-is-layout-flex" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0">
 <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:70%">
